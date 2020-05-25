@@ -32,7 +32,7 @@ KeySchema:
         KeyType: RANGE
 ```
 
-- items are fetched using the `query()` method and not `scan()` method (which is less efficient on large datasets)
+- items are fetched using the `query()` method and not `scan()` method.
 
 
 # How to run the application
